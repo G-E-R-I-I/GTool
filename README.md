@@ -1,6 +1,6 @@
 # GTool
 
-GTool is a hoi4 python modding tool, that helps you create countries and file structures faster. It currently has no GUI, and if you noticed a  b u g 🐛 , then please join to my server!
+GTool is a hoi4 python modding tool, that helps you create countries and file structures faster. It currently has no GUI, and it can't edit localisation files yet. If you noticed a  b u g 🐛 , or need any help, then please join to my server!
 
 ## Discord  link
 
@@ -48,4 +48,15 @@ C:\Your\directory
 
 ---
 
+2. Let it construct the folders, or not if you already have one!
+
+
+---
+
+3. Create a country
+
+* Give the basic informations about your country 
+* Type in real RGB colors like this ``` 23 43 21 ```
+* Type in the states you want to be in your country ``` like : 123 432... ```, and make sure you add the capital as well !
+* Type the number of the capital 
 
