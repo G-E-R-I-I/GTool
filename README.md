@@ -64,7 +64,7 @@ C:\Your\directory
 
 4. localisation
 
-You need to do the localisation files by <dt>yourself</dt> [1] !
+You need to do the localisation files by <em>yourself</em> [1] !
 
 ---
 
