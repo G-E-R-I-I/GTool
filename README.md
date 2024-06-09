@@ -44,7 +44,7 @@ GTool is a hoi4 python modding tool, that helps you create countries and file st
 
 1. Copy the mod and HOI4 directories
 
-C:\Your\directory
+         C:\Your\directory
 
 ---
 
