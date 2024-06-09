@@ -28,7 +28,17 @@ GTool is a hoi4 python modding tool, that helps you create countries and file st
 -pip install re
 ```
 
- 
+## Advantages over normal modding
+
+⋅⋅* Quick folder creation
+
+⋅⋅* Easy state modding
+
+⋅⋅* It only needs basic information 
+
+⋅⋅* loading bars 🙂
+
+⋅⋅* Fast modding
 
 
 
