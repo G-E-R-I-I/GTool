@@ -7,6 +7,10 @@ GTool is a hoi4 python modding tool, that helps you create countries and file st
 Inline-style: 
 ![alt text](https://imgur.com/a/qINqcVD)
 
+Reference-style: 
+![alt text][logo]
+
+
 | Discord link : https://discord.gg/ZCvYBrKrMH |
 
 ## How to use
