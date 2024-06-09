@@ -60,3 +60,19 @@ C:\Your\directory
 * Type in the states you want to be in your country ``` like : 123 432... ``` and make sure you add the capital as well !
 * Type the number of the capital 
 
+---
+
+4. localisation
+
+You need to do the localisation files by ####yourself [^1] !
+
+---
+
+[^1] : This may change during development.
+
+
+
+
+
+
+
