@@ -57,6 +57,6 @@ C:\Your\directory
 
 * Give the basic informations about your country 
 * Type in real RGB colors like this ``` 23 43 21 ```
-* Type in the states you want to be in your country ``` like : 123 432... ```, and make sure you add the capital as well !
+* Type in the states you want to be in your country ``` like : 123 432... ``` and make sure you add the capital as well !
 * Type the number of the capital 
 
