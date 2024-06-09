@@ -6,5 +6,24 @@ GTool is a hoi4 python modding tool, that helps you create countries and file st
 
 | Discord link : https://discord.gg/ZCvYBrKrMH |
 
+## Download packages
+
+
+```python
+-pip install os
+
+-pip install shutil
+
+-pip install tqdm
+
+-pip install yaml
+
+-pip install sys
+
+-pip install re
+```
+ 
+
+
 ## How to use
 
