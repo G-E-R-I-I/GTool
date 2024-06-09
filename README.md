@@ -64,11 +64,11 @@ C:\Your\directory
 
 4. localisation
 
-You need to do the localisation files by ####yourself [^1] !
+You need to do the localisation files by <dt>yourself</dt> [1] !
 
 ---
 
-[^1] : This may change during development.
+[1] : This may change during development.
 
 
 
