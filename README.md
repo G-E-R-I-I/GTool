@@ -75,7 +75,10 @@ You need to do the localisation files by <em>yourself</em> [1] !
 [1] : This may change during development.
 
 
+---
 
+5. You are done !
+   
 
 
 
